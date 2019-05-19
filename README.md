@@ -36,7 +36,7 @@ own for a few reasons:
 
 ### Hardware
 
-* A Rasperry Pi Zero W (built-in WiFi and Bluetooth radios)
+* A Raspberry Pi Zero W (built-in WiFi and Bluetooth radios)
 * A HifiBerry AMP2 amplifier HAT
 * A 120W, 18V Power Supply
 * An IP65 enclosure
